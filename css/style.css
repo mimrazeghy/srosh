@@ -5,7 +5,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
     background: #060c21;
     font-family: 'Poppins', sans-serif;
 }
